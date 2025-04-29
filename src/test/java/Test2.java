@@ -5,5 +5,12 @@ public class Test2 {
         k.moter ="3";
         k.father ="1";
         System.out.println("cool");
+
+
+        Test4 g= new Test4();
+        g.cup ="2333";
+        g.ater ="sasaas";
+        g.ilk ="673";
+
     }
 }
